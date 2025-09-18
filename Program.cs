@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            // Create an instance of the Account class
+            //Create an instance of the Account class
             Account johnsAccount = new Account();
             johnsAccount.Name = "John";
             johnsAccount.Deposit(1000);
