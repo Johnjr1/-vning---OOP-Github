@@ -1,6 +1,4 @@
 /Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/bin/Debug/net9.0/-vning---OOP-Github
-/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/bin/Debug/net9.0/-vning---OOP-Github.deps.json
-/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/bin/Debug/net9.0/-vning---OOP-Github.runtimeconfig.json
 /Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/bin/Debug/net9.0/-vning---OOP-Github.dll
 /Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/bin/Debug/net9.0/-vning---OOP-Github.pdb
 /Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/obj/Debug/net9.0/-vning---OOP-Github.GeneratedMSBuildEditorConfig.editorconfig
@@ -11,5 +9,3 @@
 /Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/obj/Debug/net9.0/-vning---OOP-Github.dll
 /Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/obj/Debug/net9.0/refint/-vning---OOP-Github.dll
 /Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/obj/Debug/net9.0/-vning---OOP-Github.pdb
-/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/obj/Debug/net9.0/-vning---OOP-Github.genruntimeconfig.cache
-/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/Övning - OOP + Github/-vning---OOP-Github/obj/Debug/net9.0/ref/-vning---OOP-Github.dll

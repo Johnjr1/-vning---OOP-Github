@@ -6,10 +6,11 @@
         {
 
             // Create an instance of the Account class
-           Account johnsAccount = new Account();
+            Account johnsAccount = new Account();
             johnsAccount.Name = "John";
-            johnsAccount.Amount = 50000;
-            johnsAccount.PrintInfo();
+            johnsAccount.Deposit(1000);
+            johnsAccount.Withdraw(500);
+            johnsAccount.GetBalance();
         }
     }
 }
