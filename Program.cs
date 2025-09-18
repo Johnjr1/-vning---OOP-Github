@@ -14,7 +14,7 @@
             //Set properties and call methods of the SavingsAccount class
             johnsSavings.Name = "John";
             johnsSavings.Savings = "500000";
-            johnsSavings.PrintSavingsInfo();
+            johnsSavings.GetBalance();
 
             //Use the methods of the Account class
             johnsAccount.Name = "John";
