@@ -4,7 +4,7 @@ namespace vning___OOP_Github
     {
         public string Savings;
 
-        public void PrintSavingsInfo()
+        public override void GetBalance()
         { 
             Console.WriteLine($"Hello {Name}, your savings account has {Savings} SEK.");
         }

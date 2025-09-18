@@ -26,7 +26,7 @@ namespace vning___OOP_Github
         }
 
         // Method to print account information
-        public void GetBalance()
+        public virtual void GetBalance()
         {
             Console.WriteLine($"Hello {Name}, your account has {balance} SEK");
         }
