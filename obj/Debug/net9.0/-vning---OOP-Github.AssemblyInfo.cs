@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("-vning---OOP-Github")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1f606b3d808ddfe5294c6bdc91535302a93447c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a5b5514967ff8a8620f9c27094a16ec470b37a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("-vning---OOP-Github")]
 [assembly: System.Reflection.AssemblyTitleAttribute("-vning---OOP-Github")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
