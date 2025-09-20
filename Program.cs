@@ -5,6 +5,12 @@
         static void Main(string[] args)
         {
 
+            //Create an instance of the Donation class
+            Donation donation = new Donation();
+            donation.Name = "Nemo";
+            donation.Savings = "1000000000";
+            donation.Donate();
+
             //Create an instance of the Account class
             Account johnsAccount = new Account();
 
